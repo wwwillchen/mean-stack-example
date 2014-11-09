@@ -1,4 +1,5 @@
 # DOCKER-VERSION 0.3.4
+# Manual
 FROM    centos:6
 
 # Enable EPEL for Node.js
